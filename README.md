@@ -1,4 +1,4 @@
-# PDF-RAG
+# PDF Sage
 
 A full-stack project for PDF-based Retrieval-Augmented Generation (RAG) using Node.js, LangChain, Qdrant, and a React frontend.
 
