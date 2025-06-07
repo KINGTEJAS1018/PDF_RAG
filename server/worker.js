@@ -32,7 +32,7 @@ const worker = new Worker(
 
     const embeddings = new OpenAIEmbeddings({
       model: 'text-embedding-3-small',
-      apiKey: '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',
+      apiKey: '',
     });
 
     const vectorStore = await QdrantVectorStore.fromExistingCollection(
