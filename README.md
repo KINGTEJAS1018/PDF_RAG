@@ -81,9 +81,3 @@ A full-stack project for PDF-based Retrieval-Augmented Generation (RAG) using No
 
 If you do not want to use a paid OpenAI API key, you can switch to a free embedding model like [Ollama](https://ollama.com/) or [Sentence Transformers](https://www.sbert.net/).  
 See the project issues or discussions for community guides.
-
-## License
-
-This project is licensed under the ISC License.
-
----
